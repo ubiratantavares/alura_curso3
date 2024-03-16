@@ -26,7 +26,7 @@ Você acabou de iniciar um estágio em uma empresa de desenvolvimento web e sua 
 
 - Adicionando conteúdo ao HTML.
 
-Agora que a estrutura básica do seu documento HTML está pronta, seu supervisor pediu para adicionar um cabeçalho e um parágrafo ao corpo do documento. Use as tags allowed_elements('h1') para o cabeçalho e ```<p>``` para o parágrafo. Escolha um tema para o cabeçalho e escreva um breve parágrafo relacionado a esse tema.
+Agora que a estrutura básica do seu documento HTML está pronta, seu supervisor pediu para adicionar um cabeçalho e um parágrafo ao corpo do documento. Use as tags ```<h1>``` para o cabeçalho e ```<p>``` para o parágrafo. Escolha um tema para o cabeçalho e escreva um breve parágrafo relacionado a esse tema.
 
 - Trabalhando com meta tags e título
 
@@ -48,7 +48,7 @@ Agora, adicione uma lista de itens ao seu site. Esta lista pode ser de caracter�
 
 - Explorando o impacto do DOCTYPE no HTML
 
-A sua tarefa é explorar o impacto da declaração ```<!DOCTYPE html>``` em um documento HTML. Crie um arquivo HTML básico com a estrutura apresentada no relato, incluindo elementos como ```<head>```, ```<title>```, ```<body>```, ```<h1>```, ```<p>```, e ```<img>```. Primeiro, visualize a página com a declaração <!DOCTYPE html>. Em seguida, remova a declaração e visualize novamente. Use a ferramenta de inspeção do navegador para explorar as diferenças no modo de renderização da página, focando na presença ou ausência do "Modo Quirks".
+A sua tarefa é explorar o impacto da declaração ```<!DOCTYPE html>``` em um documento HTML. Crie um arquivo HTML básico com a estrutura apresentada no relato, incluindo elementos como ```<head>```, ```<title>```, ```<body>```, ```<h1>```, ```<p>```, e ```<img>```. Primeiro, visualize a página com a declaração ```<!DOCTYPE html>```. Em seguida, remova a declaração e visualize novamente. Use a ferramenta de inspeção do navegador para explorar as diferenças no modo de renderização da página, focando na presença ou ausência do "Modo Quirks".
 
 - Automatizando a atualização da página com Live Server
 
